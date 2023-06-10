@@ -1,0 +1,19 @@
+C:\Users\Transformer\Desktop\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Transformer\Desktop\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Transformer\Desktop\Palindrome\Palindrome\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Transformer\Desktop\Palindrome\Palindrome\obj\x86\Debug\Palindrome.Form1.resources
+C:\Users\Transformer\Desktop\Palindrome\Palindrome\obj\x86\Debug\Palindrome.Properties.Resources.resources
+C:\Users\Transformer\Desktop\Palindrome\Palindrome\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Transformer\Desktop\Palindrome\Palindrome\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Transformer\Desktop\Palindrome\Palindrome\obj\x86\Debug\Palindrome.exe
+C:\Users\Transformer\Desktop\Palindrome\Palindrome\obj\x86\Debug\Palindrome.pdb
+C:\Users\Moutinho\Desktop\Palindrome\Palindrome\obj\x86\Debug\Palindrome.exe
+C:\Users\Moutinho\Desktop\Palindrome\Palindrome\obj\x86\Debug\Palindrome.pdb
+C:\Users\Moutinho\Desktop\Palindrome\Palindrome\obj\x86\Debug\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Moutinho\Desktop\Palindrome\Palindrome\obj\x86\Debug\Palindrome.frmpalindromo.resources
+C:\Users\Moutinho\Desktop\Palindrome\Palindrome\obj\x86\Debug\Palindrome.Properties.Resources.resources
+C:\Users\Moutinho\Desktop\Palindrome\Palindrome\obj\x86\Debug\Palindrome.csproj.GenerateResource.Cache
+C:\Users\Moutinho\Desktop\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Moutinho\Desktop\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Palindrome.exe
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Palindrome.pdb

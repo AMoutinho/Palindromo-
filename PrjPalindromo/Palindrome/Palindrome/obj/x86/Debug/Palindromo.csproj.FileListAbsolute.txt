@@ -1,0 +1,8 @@
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Palindromo.csprojResolveAssemblyReference.cache
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Palindrome.frmpalindromo.resources
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Palindrome.Properties.Resources.resources
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Palindromo.csproj.GenerateResource.Cache
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\bin\Debug\Verificação de Palindromo.exe
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\bin\Debug\Verificação de Palindromo.pdb
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Verificação de Palindromo.exe
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Verificação de Palindromo.pdb

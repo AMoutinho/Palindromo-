@@ -1,4 +1,8 @@
+# <p align=center font-size="55"> Palíndromo </p>
+
+<!--
 <p align=center><img align="center" src="https://static.todamateria.com.br/upload/12/00/1200pxpalindromtenet2.jpg" height="55" width="60"/> Palíndromo <img align="center" src="https://static.todamateria.com.br/upload/12/00/1200pxpalindromtenet2.jpg" height="55" width="60"/></p>
+-->
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
